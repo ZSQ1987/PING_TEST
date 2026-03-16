@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PING Test Tool 2025
 
 一个功能强大的IP网络连接速度测试工具，支持批量测试、IP持久化、持续模式、域名支持等功能。
@@ -80,3 +81,7 @@ PINGTEST/
 ## 许可证
 
 本项目使用MIT许可证，详见 [LICENSE](LICENSE) 文件。
+=======
+# PING_TEST
+PING_TEST
+>>>>>>> 99ee3bf87e04900ff819ea7b092b37c8e106e747
