@@ -141,3 +141,6 @@ Thumbs.db
 *.png
 *.ps1
 *.txt
+*.exe
+*.ink
+
